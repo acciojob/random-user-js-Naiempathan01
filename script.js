@@ -1,4 +1,3 @@
-//your code here
 function renderText(domElt, text) {
     domElt.innerText = text;
   }
